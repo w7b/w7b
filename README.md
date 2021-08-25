@@ -4,7 +4,7 @@
   <br/>
   🎮 14y
   <br/>
- 💻 Student: ReactJs, NodeJs
+ 💻 Student: NodeJs, VueJs
   <br/>
  🎈 Paranavaí, Paraná Brazil
   <br/>
