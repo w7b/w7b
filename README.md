@@ -15,7 +15,7 @@
 
 ##
 
-<div class="itens">
+<div align="center">
     <a href="https://www.youtube.com/@smoothy17" alt="YouTube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
     <a href="mailto:pessoal.gabriel21@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.twitch.tv/smoothy488" alt="Twitch"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
@@ -24,4 +24,3 @@
     <a href="" alt="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
 
-<style .itens{ display: flex; justify-content: space-around; }></style>
