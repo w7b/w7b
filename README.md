@@ -15,15 +15,17 @@
 
 ##
 <br>
-<div style="display: flex; flex-direction: row"><br>
-    <section >
-            <img align="center" height="60" width="80" alt="W7B-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<div style="display: flex;"><br>
+    <div style="flex-direction: row">
+    <section align="center">
+            <img height="60" width="80" alt="W7B-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
             <p>Beginner</p>
     <section/>
-    <section >
-            <img align="center" height="60" width="80" alt="W7B-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <section align="center">
+            <img height="60" width="80" alt="W7B-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
             <p>Not Yet</p>
     </section>
+    </div>
 </div>
 <br>
 
