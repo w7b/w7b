@@ -12,5 +12,5 @@
 </div>
 
 <div>
-    <a src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="" alt="Linkedln">
+    <a href="" alt="Linkedln"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
