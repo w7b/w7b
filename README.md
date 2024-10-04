@@ -20,6 +20,9 @@
             <img height="60" width="80" alt="W7B-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
             <p>Beginner</p>
     <section/>
+    <section align="center">
+            <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    </section>
 </div>
 <br>
 
