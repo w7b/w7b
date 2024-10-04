@@ -1,7 +1,8 @@
 ## Olá meu nome é Gabriel
-🧰 Actually studding python
-📕 In the next year i`ll uma faculdade de ADS
-📌 Follow my Road Map Here: 
+
+- 🧰 Actually studding python
+- 📕 In the next year i`ll uma faculdade de ADS
+- 📌 Follow my Road Map Here: 
 
 <div>
     <a href"https://github.com/w7b">
