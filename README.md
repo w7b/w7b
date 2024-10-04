@@ -1,8 +1,8 @@
-## 👋 Hello, Welcome to my GitHub
+## 👋 Hello, Welcome to my GitHub.
 
-- 🧰 Actually studding python
-- 📕 In the next year i`ll uma faculdade de ADS
-- 📌 Follow my Road Map Here: 
+- 🧰 Actually studding python. Finishing high school in this year 
+- 📕 Next year, I'll start college in Software Analysis and Development.
+- 📌 Follow my detailed Road Map here to track the key steps of my journey:
 
 <div>
     <a href"https://github.com/w7b">
