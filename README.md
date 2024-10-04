@@ -17,10 +17,10 @@
 
 <br>
 <div style="display: inline-block">
-    <img align-itens="center" height="60" width="80" alt="W7B-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
-    <img align-itens="center" height="60" width="80" alt="W7B-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img align-itens="center" height="60" width="80" alt="W7B-NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />    
-    <img align-itens="center" height="60" width="80" alt="W7B-C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    <img align-items="center" height="60" width="80" alt="W7B-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
+    <img align-items="center" height="60" width="80" alt="W7B-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img align-items="center" height="60" width="80" alt="W7B-NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />    
+    <img align-items="center" height="60" width="80" alt="W7B-C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 </div>
 
 <br>
