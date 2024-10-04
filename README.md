@@ -17,7 +17,7 @@
 <br>
 <div style="display: inline-block"><br>
     <section align="center">
-            <img height="30" width="40" alt="W7B-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+            <img height="60" width="80" alt="W7B-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
             <p>Beginner</p>
     <section/>
 </div>
