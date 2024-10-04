@@ -1,13 +1,15 @@
 ## 👋 Hello, Welcome to my GitHub.
 
-- 🧰 Actually studding python. Finishing high school in this year 
+- 🧰 Actually studding python. Finishing high school in this year.
 - 📕 Next year, I'll start college in Software Analysis and Development.
 - 📌 Follow my detailed Road Map here to track the key steps of my journey:
 
+##
+
 <div>
     <a href"https://github.com/w7b">
-    <img height="160em" align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=w7b&theme=kacho_ga&show_icons=true&hide_border=true&count_private=true">
-    <img height="160em" align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w7b&theme=kacho_ga&show_icons=true&hide_border=true&layout=compact">
+    <img height="180em" align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=w7b&theme=kacho_ga&show_icons=true&hide_border=true&count_private=true">
+    <img height="180em" align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w7b&theme=kacho_ga&show_icons=true&hide_border=true&layout=compact">
 </div>
 
 ##
