@@ -1,4 +1,4 @@
-## Olá meu nome é Gabriel
+## 👋 Hello, Welcome to my GitHub
 
 - 🧰 Actually studding python
 - 📕 In the next year i`ll uma faculdade de ADS
