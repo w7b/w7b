@@ -1,3 +1,7 @@
+<h1>Olá meu nome é Gabriel</h1>
+🧰 Actually studding python
+
+
 <div>
     <a href"https://github.com/w7b">
     <img height="160em" align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=w7b&theme=kacho_ga&show_icons=true&hide_border=true&count_private=true">
