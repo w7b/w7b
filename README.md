@@ -5,8 +5,8 @@
 </div>
 
 <div style="display: inline-block"><br>
-    <section>
-            <img align="center" height="30" width="40" alt="W7B-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+    <section align="center">
+            <img height="30" width="40" alt="W7B-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
             <p>STARTER</p>
     <section/>
 </div>
