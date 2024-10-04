@@ -1,3 +1,6 @@
-<!--<img align="left" height="300" src="https://media.discordapp.net/attachments/882723333022572634/882723374315487272/Captivating_Pixel_Art_Scenes_-_Dr_Wong_-_Emporium_of_Tings__Web_Magazine_.gif?width=831&height=467" /> -->
-<div fontsize="14">
-
+<div>
+  <a href="https://github.com/w7b">
+    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=w7b&theme=merko&show_icons=true&hide_border=true&count_private=false">
+    <img height="100em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=w7b&theme=merko&show_icons=true&hide_border=true&layout=compact">
+  </a>
+</div>
