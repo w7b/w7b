@@ -4,6 +4,6 @@
     <img height="160em" align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w7b&theme=prussian&show_icons=true&hide_border=true&layout=compact"></a>
 </div>
 
-<div style="display: inline-block; align: center; width: 40; height: 30"><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<div style="display: inline-block"><br>
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </div>
