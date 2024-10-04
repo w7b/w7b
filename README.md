@@ -17,9 +17,7 @@
 
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="W7B-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /><p align="center">Beginner</p>
-    <img align="center" alt="W7B-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /><p align="center">Not Yet</p>
-    
+    <img align="center" height="60" width="80" alt="W7B-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
 </div>
 
 <br>
