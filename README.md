@@ -15,7 +15,7 @@
 
 ##
 
-<div align="center">
+<div align="center" width="25em">
     <a href="https://www.linkedin.com/in/gabriel-yones-chedid-658b8326a/" alt="Linkedln"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.twitch.tv/smoothy488" alt="Twitch"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
     <a href="https://www.youtube.com/@smoothy17" alt="YouTube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
