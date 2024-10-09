@@ -2,7 +2,7 @@
 
 - 🧰 Actually studding python. Finishing high school in this year.
 - 📕 Next year, I'll start college in Software Analysis and Development.
-- 📌 Follow my detailed Road Map here to track the key steps of my journey: <a href="https://roadmap.sh/r/my-road-map-tgvfm">RoadMap</a> (road map in progress).
+- 📌 Follow my detailed Road Map here to track the key steps of my journey: <a outline="none" href="https://roadmap.sh/r/my-road-map-tgvfm">RoadMap</a> (road map in progress).
 
 ##
 
