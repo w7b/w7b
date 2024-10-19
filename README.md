@@ -17,11 +17,10 @@
 
 <br>
 <div style="display: inline-block">
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
     <img align="center" height="60" width="80" alt="W7B-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
     <img align="center" height="60" width="80" alt="W7B-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img align="center" height="60" width="80" alt="W7B-TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />    
-    <i class="devicon-rust-original"></i>
+    <img align="center" height="60" width="80" alt="W7B-Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />    
 </div>
 
 <br>
