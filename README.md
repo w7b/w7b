@@ -21,7 +21,7 @@
     <img align="center" height="60" width="80" alt="W7B-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
     <img align="center" height="60" width="80" alt="W7B-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img align="center" height="60" width="80" alt="W7B-TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />    
-    <img align="center" height="60" width="80" alt="W7B-Rust"/><i class="devicon-rust-original"></i>
+    <i class="devicon-rust-original"></i>
 </div>
 
 <br>
