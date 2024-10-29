@@ -38,9 +38,6 @@
   <img src="https://skillicons.dev/icons?i=github,git,selenium,sublime" /></br>
 </div>
 
-
-<h2>🖥️ Tech Leads </h2>
-
 <br>
 
 <h1>📊 GitHub Stats</h1>
