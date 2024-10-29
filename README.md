@@ -19,7 +19,7 @@
 <br>
 <h4><a href="https://roadmap.sh/r/my-road-map-tgvfm">🏎️ Follow my Interlagos RoadMap</a></h4>
 
-<br>
+<br/>
 
 <div align="right">
   <p>🌐 Follow me On:</p>
@@ -27,8 +27,8 @@
   <a href="mailto:pessoal.gabriel21@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-<br>
-<br>
+<br/>
+<br/>
 
 <h2 align="center">Language & Tools I have place my hands On:</h1>
 
@@ -38,7 +38,8 @@
   <img src="https://skillicons.dev/icons?i=github,git,selenium,sublime" /></br>
 </div>
 
-<br>
+<br/>
+<br/>
 
 <h1>📊 GitHub Stats</h1>
 <div align="center">
