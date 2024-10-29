@@ -5,7 +5,7 @@
 #
 
 ## About me 🚀
-<img height="40em" src="https://visitcount.itsvg.in/api?id=w7b&label=Profile%20Views&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in"/>
+<img height="30em" src="https://visitcount.itsvg.in/api?id=w7b&label=Profile%20Views&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in"/>
 
 <br>
 
@@ -30,14 +30,17 @@
 <br>
 <br>
 
-<h2>Language & Tools I have place my hands On:</h1>
+<h2 align="center">Language & Tools I have place my hands On:</h1>
 
-<div style="display: inline-block">
-  <img align="center" height="50" width="60" alt="W7B-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> 
-  <img align="center" height="50" width="60" alt="W7B-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,nodejs,js,java,vscode" /></br>
+  <img src="https://skillicons.dev/icons?i=html,css,linux,solidity,eclipse" /></br>
+  <img src="https://skillicons.dev/icons?i=github,git,selenium,sublime" /></br>
 </div>
 
-<br>
+
+<h2>🖥️ Tech Leads </h2>
+
 <br>
 
 <h1>📊 GitHub Stats</h1>
