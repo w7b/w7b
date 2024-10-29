@@ -9,8 +9,27 @@
 ## About me 🚀
 ![w7b's Stats](https://github-readme-stats.vercel.app/api?username=w7b&theme=react&show_icons=true&hide_border=true&count_private=true)
 
-## 💫 Began my journey with Software Development in Python.
-### ⚙️ I study back-end development and blockchain development, when I'm bored I focus on AI, and I carry out some projects to put here on GitHub.
-### 💻 Interested in Machine Learning, Deep Learning and Data Science.
+<br>
 
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAXCAYAAABqBU3hAAAMEElEQVR4AQCBAH7/AKywtP+tsLP/rbCy/6+wsf+wsK//srGt/7Sxq/+2san/uLKm/7qypP+8sqL/vrKf/8Cznv/Bs5z/wrOb/8Kzm//Cs5r/wrOb/8Gzm//As53/v7Oe/76yoP+8sqL/urKk/7iypv+2saj/tLGr/7OxrP+xsa7/sLCv/6+wsP+vsLH/AIEAfv8ArLC0/62ws/+tsLL/r7Cx/7Cwr/+ysa3/tLGr/7axqf+4sqb/urKk/7yyov++sqD/v7Oe/8GznP/Cs5v/wrOb/8Kzm//Cs5v/wbOc/8Cznf+/s57/vbKg/7yyov+6sqT/uLKn/7axqf+0sav/s7Gt/7Gxrv+wsa//r7Cw/6+wsf8AgQB+/wCssLT/rLC0/62ws/+usLH/sLCw/7Kxrv+zsav/trGp/7iyp/+6sqT/vLKi/76yoP+/s57/wLOd/8GznP/Cs5v/wrOb/8Kzm//Bs5z/wLOd/7+zn/+9sqH/vLKj/7qypf+4sqf/trGp/7Sxq/+ysa3/sbGv/7CxsP+vsbH/r7Cx/wCBAH7/AKuwtP+ssLT/rbCz/66wsv+vsLD/sbGu/7OxrP+1sar/t7Kn/7mypf+7sqL/vbKg/7+zn//As53/wbOc/8KznP/Cs5v/wbOc/8Gznf/As57/v7Of/72zof+7sqP/ubKl/7eyqP+1sqr/tLGs/7Kxrv+xsa//sLGx/6+xsf+usbL/AIEAfv8Aq7C1/6uwtP+ssLT/rbCy/6+wsf+xsa//s7Gs/7Wxqv+3sqj/ubKl/7uyo/+9s6H/vrOf/8Cznv/Bs53/wbOc/8GznP/Bs5z/wLOd/7+znv++s6D/vbOi/7uzpP+5sqb/t7Ko/7Wyq/+zsq3/srGv/7CxsP+vsbH/r7Gy/66xs/8AgQB+/wCrsLX/q7C1/6ywtP+tsLP/rrCx/7Cxr/+ysa3/tLGr/7ayqP+5sqb/u7Kk/7yzov++s6D/v7Oe/8Cznf/Bs53/wbOd/8Gznf/As57/v7Of/76zof+8s6P/u7Ol/7myp/+3sqn/tbKr/7Oyrv+xsq//sLGx/6+xsv+usbP/rrG0/wCBAH7/AKqwtv+qsLX/q7C1/6yws/+usLL/sLGw/7Kxrf+0sav/trKp/7iypv+6sqT/vLOi/76zoP+/s5//wLOe/8C0nv/BtJ7/wLSe/8C0n/+/s6D/vbOi/7yzo/+6s6b/uLOo/7azqv+1sqz/s7Ku/7GysP+wsrL/r7Kz/66xtP+usbX/AIEAfv8AqrC2/6qwtv+rsLX/rLC0/66wsv+vsbD/sbGu/7OxrP+2sqn/uLKn/7qypf+8s6P/vbOh/7+zoP+/tJ//wLSe/8C0nv/AtJ//v7Sg/760of+9tKL/vLOk/7qzpv+4s6n/trOr/7Szrf+ysq//sbKx/7Cys/+usrT/rrK1/62ytv8AgQB+/wCpsLf/qrC2/6qwtf+ssLT/rbGy/6+xsP+xsa7/s7Ks/7Wyqv+3sqf/ubOl/7uzo/+9s6L/vrSg/7+0n//AtJ//wLSf/8C0n/+/tKD/vrSi/720o/+7tKX/urSn/7izqv+2s6z/tLOu/7KzsP+xs7L/r7K0/66ytf+usrb/rbK2/wCBAH7/AKmwt/+psLb/qrC2/6uwtP+tsbP/r7Gx/7Gxr/+zsqz/tbKq/7eyqP+5s6b/u7Ok/72zov++tKH/v7Sg/8C0n//AtJ//wLSg/7+0of++tKL/vbSk/7u0pv+6tKj/uLSq/7a0rf+0s6//srOx/7Gzs/+vs7X/rrO2/66zt/+ts7f/AIEAfv8AqbC3/6mwt/+qsLb/q7C0/62xs/+vsbH/sbGv/7OyrP+1sqr/t7Oo/7mzpv+7s6T/vbSi/760of+/tKD/wLSg/8C1oP/AtaD/v7Wh/761o/+9taT/u7Wm/7q0qf+4tKv/trSt/7S0sP+ytLL/sbO0/6+ztf+us7f/rrO4/62zuP8AgQB+/wCpsLf/qbC2/6qwtv+rsbT/rbGz/6+xsf+xsa//s7Ks/7Wyqv+3s6j/ubOm/7u0pP+9tKL/vrSh/7+0oP/AtaD/wLWg/8C1of+/taL/vrWj/721pf+8taf/urWp/7i1q/+2tK7/tLSw/7O0sv+xtLT/sLS2/6+0t/+utLj/rrS5/wCBAH7/AKmwt/+qsLb/qrC1/6yxtP+tsbL/r7Gw/7Gyrv+zsqz/tbKq/7ezqP+6s6b/u7Sk/720ov++tKH/v7Wg/8C1oP/AtaD/wLWh/8C1ov+/taP/vrWl/7y1p/+6tan/ubWs/7e1rv+1tbD/s7Wz/7K0tf+wtLb/r7S4/660uP+utLn/AIEAfv8AqbC2/6qwtv+rsbX/rLG0/62xsv+vsbD/sbKu/7OyrP+2s6r/uLOn/7q0pf+8tKT/vrSi/7+1of/AtaD/wbWg/8G2oP/BtqH/wLai/7+2o/++tqX/vban/7u2qf+5tqz/t7Wu/7W1sP+0tbP/srW1/7G1tv+wtbj/r7W5/6+1uf8AgQB+/wCqsbX/qrG1/6uxtP+ssbP/rrGx/7Cyr/+ysq3/tLKr/7azqf+4s6f/urSl/7y0o/++taL/v7Wh/8C1oP/BtqD/wbag/8G2oP/BtqH/wLaj/7+2pf+9tqf/vLap/7q2rP+4tq7/traw/7S2s/+ztrX/sbW2/7C1uP+wtbn/r7W5/wCBAH7/AKqxtf+rsbT/rLGz/62xsv+usbH/sLKv/7Kyrf+0s6v/t7Oo/7m0pv+7tKT/vbWj/7+1of/AtaD/wbaf/8K2n//Ctp//wrag/8G3of/Bt6P/v7ek/763p/+8t6n/u7er/7m2rv+3trD/tbay/7S2tP+ytrb/sba4/7C2uP+wtrn/AIEAfv8Aq7G0/6uxtP+ssbP/rrGx/6+ysP+xsq7/s7Ks/7Wzqv+3s6j/urSm/7y0pP++taL/v7Wh/8G2n//Ctp//w7af/8O3n//Dt6D/wreh/8G3ov/At6T/v7em/723qP+7t6v/uret/7i3sP+2t7L/tLe0/7O2tv+ytrf/sba4/7G2uf8AgQB+/wCssbP/rLGz/62xsv+usbH/sLKv/7Kyrf+0s6v/trOp/7i0p/+6tKX/vLWj/761of/AtqD/wraf/8O2nv/Dt57/xLee/8O3n//Dt6D/wrei/8G4pP/AuKb/vreo/7y3q/+6t63/ubew/7e3sv+1t7T/tLe2/7O3t/+yt7j/sre4/wCBAH7/AKyxsv+tsbL/rrGx/6+ysP+wsq7/srKt/7Szq/+2s6j/ubSm/7u0pP+9taL/v7Wh/8G2n//Ctp7/w7ee/8S3nf/Et57/xLee/8S4oP/DuKH/wrij/8C4pf+/uKj/vbiq/7u4rf+5uK//uLix/7a3tP+1t7X/tLe3/7O3uP+zt7j/AIEAfv8ArbGy/62xsf+usrD/r7Kv/7Gyrv+zsqz/tbOq/7ezqP+5tKb/vLSk/761ov/AtaD/wbaf/8O2nv/Et53/xbed/8W3nf/FuJ7/xLif/8S4of/CuKP/wbil/7+4p/++uKr/vLis/7q4r/+4uLH/t7iz/7W4tf+0uLb/tLi3/7O4uP8AgQB+/wCtsbH/rrGx/6+ysP+wsq//sbKt/7Ozq/+1s6n/uLSn/7q0pf+8taP/vrWh/8C2oP/Ctp7/w7ed/8S3nf/Ft5z/xbid/8W4nv/FuJ//xLig/8O4ov/BuKT/wLin/764qf+8uKz/u7iu/7m4sf+3uLP/tri1/7W4tv+0uLf/tLi3/wCBAH7/AK6xsf+usrD/r7Kv/7Cyrv+ysq3/tLOr/7azqf+4tKf/urSl/7y1o/++taH/wLaf/8K2nv/Et53/xbec/8W3nP/GuJ3/xrid/8W4nv/EuKD/w7mi/8K5pP/Auaf/vrmp/724rP+7uK7/ubix/7i4s/+2uLT/tbi2/7W4t/+0uLf/AYEAfv8ArrGx/66ysP+vsq//sLKu/7Kyrf+0s6v/trOp/7i0p/+6tKX/vbWj/7+1of/Btp//wrae/8S3nf/Ft5z/xric/8a4nP/GuJ3/xbie/8W4oP/DuaL/wrmk/8C5p/+/uan/vbms/7u4rv+5uLD/uLiz/7e4tP+1uLb/tbi3/7S4t/94r9lM0nperQAAAABJRU5ErkJggg==" />
+<img align="right" height="260rem" src="https://media.discordapp.net/attachments/1296449923017080873/1300906333624864808/Sticker_Telegram_Windows_95_PNG_-_Free_Download-removebg-preview.png?ex=67228aef&is=6721396f&hm=30209cbfa08faf393261c8625244a93905590328546c0ec49026f1e5cc636e16&=&format=webp&quality=lossless"/>
+
+<h3>💫 Began my journey with Software Development in Python.</h3>
+<br>
+<h4>⚙️ I study back-end development and blockchain development, when I'm bored I focus on AI, and I carry out some projects to put here on GitHub.</h4>
+<br>
+<h4>💻 Interested in Machine Learning, Deep Learning and Data Science.</h4>
+
+
+<br>
+<br>
+
+<div align="right">
+  <p>🌐 Follow me On:</p>
+  <a href="https://www.linkedin.com/in/gabrielchedid" alt="Linkedln"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:pessoal.gabriel21@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+
+## Language & Tools I have place my hands On:
+
+<img align="center" height="60" width="80" alt="W7B-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> 
