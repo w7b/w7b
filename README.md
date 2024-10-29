@@ -2,12 +2,10 @@
 
 # Hello i am Gabriel, welcome to my profile 👋
 
-[![](https://visitcount.itsvg.in/api?id=w7b&label=Profile%20Views&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in)
-
 #
 
 ## About me 🚀
-![w7b's Stats](https://github-readme-stats.vercel.app/api?username=w7b&theme=react&show_icons=true&hide_border=true&count_private=true)
+<img height="40em" src="https://visitcount.itsvg.in/api?id=w7b&label=Profile%20Views&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in"/>
 
 <br>
 
@@ -18,9 +16,9 @@
 <h4>⚙️ I study back-end development and blockchain development, when I'm bored I focus on AI, and I carry out some projects to put here on GitHub.</h4>
 <br>
 <h4>💻 Interested in Machine Learning, Deep Learning and Data Science.</h4>
-
-
 <br>
+<h4><a href="https://roadmap.sh/r/my-road-map-tgvfm">🏎️ Follow my Interlagos RoadMap</a></h4>
+
 <br>
 
 <div align="right">
@@ -29,7 +27,22 @@
   <a href="mailto:pessoal.gabriel21@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
+<br>
+<br>
 
-## Language & Tools I have place my hands On:
+<h2>Language & Tools I have place my hands On:</h1>
 
-<img align="center" height="60" width="80" alt="W7B-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> 
+<div style="display: inline-block">
+  <img align="center" height="50" width="60" alt="W7B-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> 
+  <img align="center" height="50" width="60" alt="W7B-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+</div>
+
+<br>
+<br>
+
+<h1>📊 GitHub Stats</h1>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=w7b&theme=react&show_icons=true&hide_border=true&count_private=true"></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=w7b&theme=react&hide_border=true"></a>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w7b&theme=react&show_icons=true&hide_border=true&layout=compact"></a>
+</div>
