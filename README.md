@@ -9,7 +9,7 @@
 
 <br>
 
-<img align="right" height="260rem" src="https://media.discordapp.net/attachments/1296449923017080873/1300906333624864808/Sticker_Telegram_Windows_95_PNG_-_Free_Download-removebg-preview.png?ex=67228aef&is=6721396f&hm=30209cbfa08faf393261c8625244a93905590328546c0ec49026f1e5cc636e16&=&format=webp&quality=lossless"/>
+<img align="right" height="260rem" src="https://github.com/w7b/w7b/blob/main/Windows_95_PNG.png"/>
 
 <h3>💫 Began my journey with Software Development in Python.</h3>
 <br>
