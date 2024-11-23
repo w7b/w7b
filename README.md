@@ -34,8 +34,8 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,nodejs,js,java,vscode" /></br>
-  <img src="https://skillicons.dev/icons?i=html,css,linux,solidity,eclipse" /></br>
-  <img src="https://skillicons.dev/icons?i=github,git,selenium,sublime" /></br>
+  <img src="https://skillicons.dev/icons?i=html,css,linux,eclipse" /></br>
+  <img src="https://skillicons.dev/icons?i=github,git,selenium" /></br>
 </div>
 
 <br/>
