@@ -17,14 +17,13 @@
 <br>
 <h4>💻 Interested in Machine Learning, Deep Learning and Data Science.</h4>
 <br>
-<h4><a href="https://roadmap.sh/r/my-road-map-tgvfm">🏎️ Follow my Interlagos RoadMap</a></h4>
+<h4><a href="https://roadmap.sh/r/my-road-map-tgvfm">🏎️ Follow my Interlagos RoadMap (This map is so outdated)</a></h4>
 
 <br/>
 
 <div align="right">
   <p>🌐 Follow me On:</p>
   <a href="https://www.linkedin.com/in/gabrielchedid" alt="Linkedln"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:pessoal.gabriel21@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <br/>
