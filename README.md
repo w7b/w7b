@@ -12,18 +12,17 @@
 <img align="right" height="260rem" src="https://github.com/w7b/w7b/blob/main/Windows_95_PNG.png"/>
 
 <h3>💫 Began my journey with Software Development in Python.</h3>
-<br>
-<h4>⚙️ I study back-end development and blockchain development, when I'm bored I focus on AI, and I carry out some projects to put here on GitHub.</h4>
-<br>
+<h4>⚙️ I am studing back-end and machine learning development, when I'm bored I focus on AI, and I carry out some projects to put here on GitHub.</h4>
 <h4>💻 Interested in Machine Learning, Deep Learning and Data Science.</h4>
-<br>
-<h4><a href="https://roadmap.sh/r/my-road-map-tgvfm">🏎️ Follow my Interlagos RoadMap (This map is so outdated)</a></h4>
+<h4>🌱 I have a hobby of occasionally following the economy and geopolitics of the world and my country, I really like the area of ​​cyber security and I want to gradually introduce myself to it..</h4>
+<h4><a href="https://roadmap.sh/r/my-road-map-tgvfm">🏎️ Check my interlagos RoadMap (This map is so outdated)</a></h4>
 
 <br/>
 
 <div align="right">
-  <p>🌐 Follow me On:</p>
-  <a href="https://www.linkedin.com/in/gabrielchedid" alt="Linkedln"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <p>👤 Follow me On:</p>
+  <a href="https://www.linkedin.com/in/gabrielchedid" alt="Linkedln"><img src="https://img.shields.io/badge/%27Linkedln-AAD6FF?style=for-the-badge"></a>
+  <a href="https://www.instagram.com/gabriel.y.c/" alt="Instagram"><img src="https://img.shields.io/badge/%27Instagram-FA0174?style=for-the-badge"></a>
 </div>
 
 <br/>
