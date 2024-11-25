@@ -21,8 +21,8 @@
 
 <div align="right">
   <p>👤 Follow me On:</p>
-  <a href="https://www.linkedin.com/in/gabrielchedid" alt="Linkedln"><img src="https://img.shields.io/badge/%27Linkedln-AAD6FF?style=for-the-badge"></a>
-  <a href="https://www.instagram.com/gabriel.y.c/" alt="Instagram"><img src="https://img.shields.io/badge/%27Instagram-FA0174?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/gabrielchedid" alt="Linkedln"><img src="https://img.shields.io/badge/Linkedln-1363ad?style=for-the-badge"></a>
+  <a href="https://www.instagram.com/gabriel.y.c/" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-7100a6?style=for-the-badge"></a>
 </div>
 
 <br/>
