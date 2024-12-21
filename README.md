@@ -14,7 +14,7 @@
 <h3>💫 Began my journey with Software Development in Python.</h3>
 <h4>⚙️ I am studing back-end and machine learning development, when I'm bored I focus on AI, and I carry out some projects to put here on GitHub.</h4>
 <h4>💻 Interested in Machine Learning, Deep Learning and Data Science.</h4>
-<h4>🌱 I have a hobby of occasionally following the economy and geopolitics of the world and my country, I really like the area of ​​cyber security and I want to gradually introduce myself to it..</h4>
+<h4>🌱 I'm always interacting about cryptocurrencies and the global economy and geopolitics.</h4>
 <h4><a href="https://roadmap.sh/r/my-road-map-tgvfm">🏎️ Check my interlagos RoadMap (This map is so outdated)</a></h4>
 
 <br/>
@@ -22,7 +22,9 @@
 <div align="right">
   <p>👤 Follow me On:</p>
   <a href="https://www.linkedin.com/in/gabrielchedid" alt="Linkedln"><img src="https://img.shields.io/badge/Linkedln-1363ad?style=for-the-badge"></a>
+  <a href="https://x.com/smoothy_gabriel" alt="X"><img src="https://img.shields.io/badge/X-191919?style=for-the-badge"></a>
   <a href="https://www.instagram.com/gabriel.y.c/" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-7100a6?style=for-the-badge"></a>
+  
 </div>
 
 <br/>
@@ -31,7 +33,8 @@
 <h2 align="center">Language & Tools I have place my hands On:</h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,mysql,sqlite,docker" /></br>
+  <img src="https://skillicons.dev/icons?i=py,mysql,sqlite" /></br>
+  <img src="https://skillicons.dev/icons?i=docker,linux,debian" /></br>
 <!--  <img src="https://skillicons.dev/icons?i=html,css,linux,eclipse" /></br>
   <img src="https://skillicons.dev/icons?i=js,nodejs,java" /></br>
   <img src="https://skillicons.dev/icons?i=github,git,selenium" /></br>-->
