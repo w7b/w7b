@@ -9,7 +9,7 @@
 
 <img align="right" height="260rem" src="https://github.com/w7b/w7b/blob/main/Windows_95_PNG.png"/>
 
-<h3>💫 Began my journey with Software Development in Python.</h3>
+<h3>💫 Began my journey with Software Development.</h3>
 <h4>⚙️ I am studing back-end and machine learning development, when I'm bored I focus on AI, and I carry out some projects to put here on GitHub.</h4>
 <h4>💻 Interested in Machine Learning, Deep Learning and Data Science.</h4>
 <h4>🌱 I'm always interacting about cryptocurrencies and the global economy and geopolitics.</h4>
