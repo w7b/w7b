@@ -31,9 +31,9 @@
 <h2 align="center">Language & Tools I have place my hands On:</h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,gradle,postman,py" /></br>
+  <img src="https://skillicons.dev/icons?i=java,spring,gradle,postman" /></br>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" /></br>
-  <img src="https://skillicons.dev/icons?i=docker,linux,debian" /></br>
+  <img src="https://skillicons.dev/icons?i=git,github,py,docker,linux,debian" /></br>
 <!--  <img src="https://skillicons.dev/icons?i=html,css,linux,eclipse" /></br>
   <img src="https://skillicons.dev/icons?i=js,nodejs,java" /></br>
   <img src="https://skillicons.dev/icons?i=github,git,selenium" /></br>-->
