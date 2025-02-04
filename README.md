@@ -1,6 +1,6 @@
 <h2 align="center">Olá! Sejam bem vindos ao meu Github!</h2>
 
-<div align="left">
+<div align="center" display="block">
   <a href="https://github.com/w7b">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=w7b&show_icons=true&theme=graywhite"/>
   </a>
