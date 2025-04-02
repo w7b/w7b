@@ -12,7 +12,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,mysql,gradle,linux,github,spring,mongodb,postgres,postman,git,sqlite,docker" />
+  <img src="https://skillicons.dev/icons?i=java,py,mysql,linux,gradle,github,spring,mongodb,postgres,postman,git,sqlite,docker" />
 </div>
 
 ###
