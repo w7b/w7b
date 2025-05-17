@@ -1,48 +1,19 @@
-<h2 align="center">Olá! Sejam bem vindos ao meu Github!</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=4000&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Gabriel+Chedid" alt="Typing SVG" /></a>
+----
 
-<div align="center" display="block">
-  <a href="https://github.com/w7b">
-    <img height=180em src="https://github-readme-stats.vercel.app/api?username=w7b&show_icons=true&theme=graywhite"/>
-  </a>
-  <a href="https://github.com/w7b/">
-    <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs?username=w7b&layout=compact&langs_count=8&card_width=250&show_icons=true&theme=graywhite"/>
-  </a>
-</div>
+<a href="https://git.io/streak-stats" ><img align="center" src="https://streak-stats.demolab.com?user=w7b&theme=dark&border_radius=7&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=595&ring=BEBEBE" alt="GitHub Streak" /></a>
 
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,linux,mysql,gradle,github,spring,mongodb,postman,git,postgres,sqlite,docker" />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/gabrielchedid" alt="Linkedln">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  
-  <a href="https://x.com/smoothy_gabriel" alt="X">
-    <img src="https://img.shields.io/badge/X (Twitter)-191919?style=for-the-badge" height="35">
-  </a>
-  
-  <a href="https://www.instagram.com/gabriel.y.c/" alt="Instagram"  target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/w7b/w7b/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/w7b/count.svg?"  />
-</div>
-
-###
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/w7b/w7b/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/w7b/w7b/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="snake"
+    src="https://raw.githubusercontent.com/w7b/w7b/output/github-contribution-grid-snake.svg"
+  />
+</picture>
