@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/w7b">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=4000&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Gabriel+Chedid" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=32&duration=4000&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Gabriel+Chedid" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,5 +18,5 @@
 </div>
 
 <div align="center"> 
-  <img src="https://raw.githubusercontent.com/w7b/w7b/main/dist/github-contribution-grid-snake.gif" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/w7b/w7b/output/snake.svg" alt="GitHub Snake Animation" />
 </div>
