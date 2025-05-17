@@ -18,5 +18,5 @@
 </div>
 
 <div align="center"> 
-  <img src="https://raw.githubusercontent.com/w7b/w7b/main/dist/github-contribution-grid-snake.gif" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/w7b/w7b/main/output/github-contribution-grid-snake.gif" alt="GitHub Snake Animation" />
 </div>
