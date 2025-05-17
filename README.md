@@ -17,6 +17,17 @@
   </a>
 </div>
 
+---
+
+## Languages-Frameworks-Tools
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</div>
+
+---
+
 <div align="center"> 
   <img src="https://raw.githubusercontent.com/w7b/w7b/output/snake.svg" alt="GitHub Snake Animation" />
 </div>
