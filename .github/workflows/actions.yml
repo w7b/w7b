@@ -22,7 +22,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }} # Usa o dono do repositório como nome de usuário
           svg_out_path: dist/github-contribution-grid-snake.svg
-          color_snake: "#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127"
+          color_snake: "blue"
 
       - name: Commit and push changes
         run: |
