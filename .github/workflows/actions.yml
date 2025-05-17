@@ -1,0 +1,38 @@
+name: Generate Snake Animation
+
+on:
+  # Executa a cada 12 horas
+  schedule:
+    - cron: "0 */12 * * *"
+  # Permite execução manual a partir da aba Actions
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake animation
+        uses: Platane/snk@v3
+        id: snake # Adiciona um ID para referenciar as saídas
+        with:
+          github_user_name: ${{ github.repository_owner }} # Usa o dono do repositório como nome de usuário
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          color_snake: "#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127"
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist # Adiciona a pasta dist (ou o arquivo específico se preferir)
+          # Verifica se há algo para commitar para evitar erro se não houver mudanças
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Generate Contribution Snake"
+            git push
+          fi
