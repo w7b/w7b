@@ -11,28 +11,39 @@
 
 ----
 
-<div align="center">
-  <a align="center" href="#">
-    <img align="center" src="https://streak-stats.demolab.com?user=w7b&theme=dark&border_radius=7&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=595&ring=BEBEBE" alt="GitHub Streak" />
-  </a>
+<div>
+  <img src="image/software-engineer-graphic-clipart-design-free-png.webp" 
+       width="450"
+       align="right" 
+       style="margin-left: 10px;" />
+  
+  <div>
+    <p>I'm a Brazilian Information Systems student at UNIPAR.</p>
+    <p>Currently building projects using Java, TypeScript, and Node.js.</p>
+    <p>Dedicated to developing consistent habits that drive both personal and professional growth.</p>
+  </div>
+  
+  <br clear="right"/>
 </div>
 
----
+----
 
-## Languages-Frameworks-Tools
+<details>
+<summary style="margin-bottom: 20px;">Languages Frameworks and Tools</summary>
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,nodejs,js,ts,react,tailwind,git,github,postman,mysql,postgres,mongodb,redis,docker,aws&perline=7&theme=dark" alt="Skill icons" />
   </a>
 </p><br/>
+</details>
 
 <!--kubernetes,grafana,linux -->
 
 ---
 
-<div align="center"> 
+<!-- <div align="center"> 
   <img src="https://raw.githubusercontent.com/w7b/w7b/output/snake.svg" alt="GitHub Snake Animation" />
-</div><br/>
+</div><br/> -->
 
 <!--<details>
   <summary>Github Stats ⚡</summary>
